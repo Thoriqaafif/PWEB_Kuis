@@ -1,0 +1,45 @@
+.nav-link {
+    color: white;
+}
+
+.news-capt{
+    font-size:24px;
+}
+
+#pop-news {
+    margin: 5px;
+    padding: 5px;
+}
+
+#pop-news-head {
+    font-size: 24px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.pop-news-box {
+    display: flex;
+    margin: 20px 0px 20px 0px;
+}
+
+.pop-news-box img {
+    object-fit: cover;
+    margin-right: 20px;
+    width: 180px;
+    height: 120px
+}
+
+.pop-news-category {
+    font-size: 20px;
+    color: #8d8daa;
+    display: block;
+}
+
+.pop-news-title {
+    color: #2d2727;
+}
+
+.pop-news-title:hover {
+    color: #11468f;
+    cursor: pointer;
+}
